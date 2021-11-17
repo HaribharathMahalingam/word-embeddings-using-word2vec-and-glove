@@ -24,7 +24,7 @@ I also obtained Pearson correlation coeffecients for 10 pair of words given a hu
 
 Step8: evaluate the word pairs in task2.txt using wordVec.evaluate_word_pairs(“task2.txt”).
 
-![1](https://github.com/HaribharathMahalingam/word-embeddings-using-word2vec-and-glove/blob/main/1.PNG)
+![1](https://github.com/HaribharathMahalingam/word-embeddings-using-word2vec-and-glove/blob/main/1.png)
 
 Step9: evaluate the word pairs in task2.txt using glove.evaluate_word_pairs(“task2.txt”).
 
